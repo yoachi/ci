@@ -5,7 +5,7 @@ class Admin_manufacturers extends CI_Controller {
     * name of the folder responsible for the views
     * which are manipulated by this controller
     * @constant string
-    *////
+    *//////
     const VIEW_FOLDER = 'admin/manufacturers';
 
     /**
